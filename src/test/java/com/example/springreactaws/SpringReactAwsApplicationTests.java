@@ -9,7 +9,7 @@ class SpringReactAwsApplicationTests {
 
 	@Test
 	void contextLoads() {
-		Assertions.fail("Oops test failed!");
+		Assertions.fail("haha Oops test failed!");
 	}
 
 }
