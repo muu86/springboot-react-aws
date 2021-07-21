@@ -34,10 +34,3 @@ build/
 
 ### postgres local db ###
 /db-data
-
-### elastic beanstalk ###
-/elasticbeanstalk
-
-### App-Info ###
-application.properties
-application-dev.properties
