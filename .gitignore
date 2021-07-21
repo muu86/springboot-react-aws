@@ -32,11 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
-### FRONT-END ###
-/build
-/node
-/node_modules
-
 ### postgres local db ###
 /db-data
 
