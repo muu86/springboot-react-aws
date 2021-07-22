@@ -8,8 +8,12 @@ import org.springframework.boot.test.context.SpringBootTest;
 class SpringReactAwsApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void githubActionTest1() {
 		Assertions.fail("test failed!");
 	}
 
+	@Test
+	void githubActionTest2() {
+		Assertions.fail("fail");
+	}
 }
