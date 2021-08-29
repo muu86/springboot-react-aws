@@ -6,4 +6,9 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class SpringReactAwsApplicationTests {
+
+    @Test
+    void gitActionTest1() {
+        Assertions.fail("테스트 실패");
+    }
 }
