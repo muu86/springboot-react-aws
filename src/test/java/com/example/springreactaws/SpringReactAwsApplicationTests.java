@@ -11,4 +11,9 @@ class SpringReactAwsApplicationTests {
     void gitActionTest1() {
         Assertions.fail("테스트 실패");
     }
+
+    @Test
+    void gitActionTest2() {
+        Assertions.fail("테스트 실패!!2");
+    }
 }
