@@ -11,7 +11,7 @@ import {
     Badge,
     Tag,
     Avatar,
-    Radio, Popconfirm, Image
+    Radio, Popconfirm, Image, Divider
 } from 'antd';
 
 import {
@@ -231,6 +231,14 @@ function App() {
                     width={75}
                     src='https://user-images.githubusercontent.com/71859468/126431558-725a6416-0be1-4835-b3ba-c39dd8ae0393.jpg'
                 />
+                <Divider>
+                    <a
+                        target="_blank_"
+                        href="https://github.com/muu86/springboot-react-aws"
+                    >
+                        Click here to access my github repository!
+                    </a>
+                </Divider>
                 By MJ
             </Footer>
         </Layout>
